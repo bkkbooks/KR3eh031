@@ -1,0 +1,694 @@
+canonical_identifier: bkk:krp/KR3eh031/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh031/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學要數
+  identifiers:
+    krp: KR3eh031
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh031.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh031_000-jc.yaml, hash: 'sha256:076dceb84de52e5b7af977bfe1ddaf9875b48ff23053cb114ad3f5db939b2724'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh031_000-jc.markers.yaml, hash: 'sha256:19e91eb1b5264591bdd6bdcdb3996805ce596a42660142c661fa20f80fb1a0f1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 102
+  label: 一息
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d3.h1s1
+    span:
+    - body
+    - 102
+    - 188
+  label: 二儀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d4.h1s1
+    span:
+    - body
+    - 188
+    - 528
+  label: 二陽病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d5.h1s1
+    span:
+    - body
+    - 528
+    - 668
+  label: 三才
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d6.h1s1
+    span:
+    - body
+    - 668
+    - 775
+  label: 三部
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d7.h1s1
+    span:
+    - body
+    - 775
+    - 1141
+  label: 三焦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d8.h1s1
+    span:
+    - body
+    - 1141
+    - 1188
+  label: 三神
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d9.h1s1
+    span:
+    - body
+    - 1188
+    - 1365
+  label: 三因說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d10.h1s1
+    span:
+    - body
+    - 1365
+    - 1712
+  label: 四氣調神
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d11.h1s1
+    span:
+    - body
+    - 1712
+    - 1804
+  label: 四知
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d12.h1s1
+    span:
+    - body
+    - 1804
+    - 1822
+  label: 四損
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d13.h1s1
+    span:
+    - body
+    - 1822
+    - 1912
+  label: 四肢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d14.h1s1
+    span:
+    - body
+    - 1912
+    - 2035
+  label: 四海
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d15.h1s1
+    span:
+    - body
+    - 2035
+    - 2224
+  label: 四失
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d16.h1s1
+    span:
+    - body
+    - 2224
+    - 2657
+  label: 五臟主病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d17.h1s1
+    span:
+    - body
+    - 2657
+    - 2995
+  label: 五臟虛買
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d18.h1s1
+    span:
+    - body
+    - 2995
+    - 3575
+  label: 五臟脈氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d19.h1s1
+    span:
+    - body
+    - 3575
+    - 4387
+  label: 五臟生成
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d20.h1s1
+    span:
+    - body
+    - 4387
+    - 4636
+  label: 五臟損益
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d21.h1s1
+    span:
+    - body
+    - 4636
+    - 5112
+  label: 五臟苦欲補瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d22.h1s1
+    span:
+    - body
+    - 5112
+    - 5218
+  label: 五臟氣味補瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d23.h1s1
+    span:
+    - body
+    - 5218
+    - 5318
+  label: 五臟相平
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d24.h1s1
+    span:
+    - body
+    - 5318
+    - 5606
+  label: 五臟別論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d25.h1s1
+    span:
+    - body
+    - 5606
+    - 5661
+  label: 五精所並
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d26.h1s1
+    span:
+    - body
+    - 5661
+    - 7039
+  label: 五郁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d27.h1s1
+    span:
+    - body
+    - 7039
+    - 7098
+  label: 五臟正病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d28.h1s1
+    span:
+    - body
+    - 7098
+    - 7356
+  label: 五邪為病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d29.h1s1
+    span:
+    - body
+    - 7356
+    - 7440
+  label: 五絕病治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d30.h1s1
+    span:
+    - body
+    - 7440
+    - 7494
+  label: 五勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d31.h1s1
+    span:
+    - body
+    - 7494
+    - 7851
+  label: 五過
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d32.h1s1
+    span:
+    - body
+    - 7851
+    - 7889
+  label: 五病所發
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d33.h1s1
+    span:
+    - body
+    - 7889
+    - 7932
+  label: 五邪所亂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d34.h1s1
+    span:
+    - body
+    - 7932
+    - 7968
+  label: 五邪所見
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d35.h1s1
+    span:
+    - body
+    - 7968
+    - 8023
+  label: 五行相剋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d36.h1s1
+    span:
+    - body
+    - 8023
+    - 8226
+  label: 五法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d37.h1s1
+    span:
+    - body
+    - 8226
+    - 8287
+  label: 六經氣血多少
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d38.h1s1
+    span:
+    - body
+    - 8287
+    - 8349
+  label: 六不治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d39.h1s1
+    span:
+    - body
+    - 8349
+    - 8478
+  label: 六腑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d40.h1s1
+    span:
+    - body
+    - 8478
+    - 8689
+  label: 七情藥性
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d41.h1s1
+    span:
+    - body
+    - 8689
+    - 8733
+  label: 七衝門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d42.h1s1
+    span:
+    - body
+    - 8733
+    - 8849
+  label: 七診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d43.h1s1
+    span:
+    - body
+    - 8849
+    - 8933
+  label: 七表脈狀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d44.h1s1
+    span:
+    - body
+    - 8933
+    - 9036
+  label: 八里脈狀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d45.h1s1
+    span:
+    - body
+    - 9036
+    - 9443
+  label: 奇經八脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d46.h1s1
+    span:
+    - body
+    - 9443
+    - 9617
+  label: 八風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d47.h1s1
+    span:
+    - body
+    - 9617
+    - 9670
+  label: 八會
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d48.h1s1
+    span:
+    - body
+    - 9670
+    - 9824
+  label: 九道脈狀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d49.h1s1
+    span:
+    - body
+    - 9824
+    - 10088
+  label: 九候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d50.h1s1
+    span:
+    - body
+    - 10088
+    - 10175
+  label: 九藏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d51.h1s1
+    span:
+    - body
+    - 10175
+    - 10299
+  label: 九針
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d52.h1s1
+    span:
+    - body
+    - 10299
+    - 10622
+  label: 九蟲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d53.h1s1
+    span:
+    - body
+    - 10622
+    - 10781
+  label: 九竅
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d54.h1s1
+    span:
+    - body
+    - 10781
+    - 10981
+  label: 九氣為病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d55.h1s1
+    span:
+    - body
+    - 10981
+    - 11117
+  label: 十變
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d56.h1s1
+    span:
+    - body
+    - 11117
+    - 11187
+  label: 十法治病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d57.h1s1
+    span:
+    - body
+    - 11187
+    - 12514
+  label: 十二經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d58.h1s1
+    span:
+    - body
+    - 12514
+    - 13627
+  label: 十二經見證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d59.h1s1
+    span:
+    - body
+    - 13627
+    - 13818
+  label: 十二原
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d60.h1s1
+    span:
+    - body
+    - 13818
+    - 14015
+  label: 十二官
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d61.h1s1
+    span:
+    - body
+    - 14015
+    - 14111
+  label: 十二月人氣所在
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d62.h1s1
+    span:
+    - body
+    - 14111
+    - 14182
+  label: 十二多
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d63.h1s1
+    span:
+    - body
+    - 14182
+    - 14379
+  label: 十二經水
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d64.h1s1
+    span:
+    - body
+    - 14379
+    - 16308
+  label: 十二經脈之終
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d65.h1s1
+    span:
+    - body
+    - 16308
+    - 17176
+  label: 十二經治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d66.h1s1
+    span:
+    - body
+    - 17176
+    - 17354
+  label: 十三陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d67.h1s1
+    span:
+    - body
+    - 17354
+    - 17489
+  label: 十五絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh031_jc_000-d68.h1s1
+    span:
+    - body
+    - 17489
+    - 20875
+  label: 十九問選
+  type: section
+  level: 1
+hash: sha256:2cc76ef2fef978158db53bf8cef4ee3d699c6d1e26e91015a01d6d6664cefd54
