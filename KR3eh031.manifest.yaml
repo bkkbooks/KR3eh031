@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh031_000.yaml, hash: 'sha256:93eb34fec63eba1a49c669815bb3ceeadb6a1d6506f09daf30253573a64fa0d0'}
+  - {seq: 0, filename: KR3eh031_000.yaml, hash: 'sha256:076dceb84de52e5b7af977bfe1ddaf9875b48ff23053cb114ad3f5db939b2724'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh031_000.markers.yaml, hash: 'sha256:4e811143252602a5de1a901f5e74c6c6d92d1a5558c28a022ad6ea19a55d6852'}
+  - {seq: 0, role: markers, filename: assets/KR3eh031_000.markers.yaml, hash: 'sha256:7182c262420b5462c83de51705413b1cda78a6621455e9e61fc1a9f60c28af87'}
 table_of_contents:
 - ref:
     seq: 0
@@ -691,7 +691,4 @@ table_of_contents:
   label: 十九問選
   type: section
   level: 1
-hash: sha256:dfc60a08878c8f4efc7655eb2262b59de5e0758ece89c866b210c55eb5cf5d1a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9213d80ee16769979cdba0500a4e0241ef1ad8e1529679784dced9ac41f45d94
